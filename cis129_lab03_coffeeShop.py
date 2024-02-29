@@ -25,4 +25,4 @@ muffin_amount = int(input("Amount of Muffins: "))
 total_cost = calculate_total_cost(coffee_amount, muffin_amount)
 
 #Final Result
-print("\nTotal Cost: $", total_cost)
+print("\nTotal Cost: $", total_cost) 
